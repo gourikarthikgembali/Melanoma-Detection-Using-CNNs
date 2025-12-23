@@ -32,7 +32,4 @@ This project uses a Convolutional Neural Network (CNN) to classify 9 types of sk
 - Run the script or notebook
 - View accuracy/loss plots and predictions
 
-## Note
-This model is for **educational purposes only** and not for clinical diagnosis.
-
 Maintainer: Gouri Karthik Gembali
